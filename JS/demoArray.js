@@ -42,4 +42,4 @@
 // console.log(obj.getName2());
 
 
-
+alooo
